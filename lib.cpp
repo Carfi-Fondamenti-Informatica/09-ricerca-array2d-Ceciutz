@@ -2,7 +2,6 @@
 // Created by Cecilia Utzeri on 13/12/2022
 //
 
-#include "lib.h"
 
 bool cerca(char lista [10][20], int&posizione, char target[]){
   for (int i=0; i<10;i++){
