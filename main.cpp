@@ -7,7 +7,7 @@ int main(){
   char target [20];
   int pos=0;
   
-  for ( int i=0;i<10;i++){
+  for (int i=0;i<10;i++){
     for(int j=0;j<20;j++){
       target [j]='';
       lista[i][j]='';
